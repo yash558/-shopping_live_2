@@ -218,7 +218,7 @@ class _ProductScreenState extends State<ProductScreen> {
                                       ),
                                       Container(
                                           height: 25,
-                                          margin: EdgeInsets.only(left: 5),
+                                          margin: const EdgeInsets.only(left: 5),
                                           decoration: BoxDecoration(
                                               color: Colors.white,
                                               border: Border.all(
